@@ -1,14 +1,11 @@
 <template>
-  <first />
+  <h1>hi</h1>
+  <router-view></router-view>
 </template>
 
 <script>
-import First from './components/first.vue'
 
 export default {
   name: 'App',
-  components: {
-    First
-  }
 }
 </script>
