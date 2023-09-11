@@ -1,5 +1,4 @@
 <template>
-  <h1>hi</h1>
   <router-view></router-view>
 </template>
 
